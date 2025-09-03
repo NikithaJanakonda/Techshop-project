@@ -441,7 +441,7 @@ del {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
+  gap: 5px;
 }
 
 .icon-box {
@@ -658,7 +658,7 @@ footer {
 .badge-count1 {
   position: absolute;
   top: -11px !important; /* adjust vertical */
-  right: 30px !important; /* adjust horizontal */
+  right: 29px !important; /* adjust horizontal */
   font-size: 0.7rem;
   display: none;
   padding: 2px 6px;

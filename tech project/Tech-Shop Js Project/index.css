@@ -289,8 +289,9 @@ del {
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
+/* .......... */
 
 .carousel-item-custom img {
   border-radius: 50%;
@@ -301,12 +302,6 @@ del {
 .carousel-item-custom:hover {
   transform: scale(1.2);
 }
-/* .carousel-item-custom p:hover {
-      transform: scale(1.2);
-    }
-    .carousel-item-custom h4:hover {
-      transform: scale(1.2);
-    } */
 
 /* Sizes */
 .carousel-item-custom:nth-child(1) img,

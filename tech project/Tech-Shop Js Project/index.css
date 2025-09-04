@@ -427,8 +427,9 @@ del {
 }
 
 .font_mute_c {
-  color: rgb(82, 80, 80);
+  color:#888;
 }
+/* ......... */
 .feature-card {
   display: flex;
   align-items: center;

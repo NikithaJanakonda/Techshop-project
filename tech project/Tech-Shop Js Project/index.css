@@ -652,7 +652,8 @@ footer {
 
 .added-btn {
   background-color: green !important;
-  color: #fff !important;
+  /* color: #fff !important; */
+  color: white;
   border: none !important;
 }
 
